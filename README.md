@@ -1,6 +1,6 @@
 # CloudFusion
 
-Detailed information about the design of the system can be found in "DesignDoc.tex".
+Detailed information about the design of the system can be found in the "DesignDoc" folder.
 
 # Setup Instructions:
 
