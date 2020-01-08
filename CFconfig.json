@@ -1,0 +1,7 @@
+{
+    "Region": "us-east-1",
+    "Bucket": "cloud-fusion",
+    "Credentials": "default",
+    "Mountpoint": "/Users/larkinflodin/Desktop/mountpoint",
+    "Table": "CloudFusion"
+}
