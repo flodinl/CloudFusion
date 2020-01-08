@@ -1,7 +1,5 @@
 # CloudFusion
 
-# This repo should not be made public! It contains AWS access credentials associated with a working account!
-
 Detailed information about the design of the system can be found in "DesignDoc.tex".
 
 # Setup Instructions:
